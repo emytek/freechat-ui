@@ -1,0 +1,2 @@
+# freechat-ui
+frontend freechat
